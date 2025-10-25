@@ -1,0 +1,5 @@
+/Users/mcaleg2006/RiderProjects/ConsoleBank/MyCoolBank/Bank.Domain/obj/Debug/net9.0/Bank.Domain.csproj.AssemblyReference.cache
+/Users/mcaleg2006/RiderProjects/ConsoleBank/MyCoolBank/Bank.Domain/obj/Debug/net9.0/Bank.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mcaleg2006/RiderProjects/ConsoleBank/MyCoolBank/Bank.Domain/obj/Debug/net9.0/Bank.Domain.AssemblyInfoInputs.cache
+/Users/mcaleg2006/RiderProjects/ConsoleBank/MyCoolBank/Bank.Domain/obj/Debug/net9.0/Bank.Domain.AssemblyInfo.cs
+/Users/mcaleg2006/RiderProjects/ConsoleBank/MyCoolBank/Bank.Domain/obj/Debug/net9.0/Bank.Domain.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+/Users/mcaleg2006/RiderProjects/ConsoleBank/MyCoolBank/MyCoolBank/bin/Debug/net9.0/MyCoolBank
+/Users/mcaleg2006/RiderProjects/ConsoleBank/MyCoolBank/MyCoolBank/bin/Debug/net9.0/MyCoolBank.deps.json
+/Users/mcaleg2006/RiderProjects/ConsoleBank/MyCoolBank/MyCoolBank/bin/Debug/net9.0/MyCoolBank.runtimeconfig.json
+/Users/mcaleg2006/RiderProjects/ConsoleBank/MyCoolBank/MyCoolBank/bin/Debug/net9.0/MyCoolBank.dll
+/Users/mcaleg2006/RiderProjects/ConsoleBank/MyCoolBank/MyCoolBank/bin/Debug/net9.0/MyCoolBank.pdb
+/Users/mcaleg2006/RiderProjects/ConsoleBank/MyCoolBank/MyCoolBank/obj/Debug/net9.0/MyCoolBank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mcaleg2006/RiderProjects/ConsoleBank/MyCoolBank/MyCoolBank/obj/Debug/net9.0/MyCoolBank.AssemblyInfoInputs.cache
+/Users/mcaleg2006/RiderProjects/ConsoleBank/MyCoolBank/MyCoolBank/obj/Debug/net9.0/MyCoolBank.AssemblyInfo.cs
+/Users/mcaleg2006/RiderProjects/ConsoleBank/MyCoolBank/MyCoolBank/obj/Debug/net9.0/MyCoolBank.csproj.CoreCompileInputs.cache
+/Users/mcaleg2006/RiderProjects/ConsoleBank/MyCoolBank/MyCoolBank/obj/Debug/net9.0/MyCoolBank.dll
+/Users/mcaleg2006/RiderProjects/ConsoleBank/MyCoolBank/MyCoolBank/obj/Debug/net9.0/refint/MyCoolBank.dll
+/Users/mcaleg2006/RiderProjects/ConsoleBank/MyCoolBank/MyCoolBank/obj/Debug/net9.0/MyCoolBank.pdb
+/Users/mcaleg2006/RiderProjects/ConsoleBank/MyCoolBank/MyCoolBank/obj/Debug/net9.0/MyCoolBank.genruntimeconfig.cache
+/Users/mcaleg2006/RiderProjects/ConsoleBank/MyCoolBank/MyCoolBank/obj/Debug/net9.0/ref/MyCoolBank.dll
