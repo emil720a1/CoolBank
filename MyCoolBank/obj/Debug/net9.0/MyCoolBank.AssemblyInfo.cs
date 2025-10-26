@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyCoolBank")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+234e0e4a6e48a43fad7999b1754d36f81096fe51")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyCoolBank")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyCoolBank")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -2,7 +2,7 @@
 
 public abstract class Account : BankEntity
 {
-    private decimal Balance { get; set; }
+    public decimal Balance { get; set; }
     
     public string Owner { get; set; }
 

@@ -10,4 +10,8 @@
       <ProjectReference Include="..\Bank.Domain\Bank.Domain.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Menu\" />
+    </ItemGroup>
+
 </Project>

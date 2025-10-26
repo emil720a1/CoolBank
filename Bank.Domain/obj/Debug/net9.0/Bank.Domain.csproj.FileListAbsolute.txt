@@ -3,3 +3,11 @@
 /Users/mcaleg2006/RiderProjects/ConsoleBank/MyCoolBank/Bank.Domain/obj/Debug/net9.0/Bank.Domain.AssemblyInfoInputs.cache
 /Users/mcaleg2006/RiderProjects/ConsoleBank/MyCoolBank/Bank.Domain/obj/Debug/net9.0/Bank.Domain.AssemblyInfo.cs
 /Users/mcaleg2006/RiderProjects/ConsoleBank/MyCoolBank/Bank.Domain/obj/Debug/net9.0/Bank.Domain.csproj.CoreCompileInputs.cache
+/Users/mcaleg2006/RiderProjects/ConsoleBank/MyCoolBank/Bank.Domain/bin/Debug/net9.0/Bank.Domain.deps.json
+/Users/mcaleg2006/RiderProjects/ConsoleBank/MyCoolBank/Bank.Domain/bin/Debug/net9.0/Bank.Domain.dll
+/Users/mcaleg2006/RiderProjects/ConsoleBank/MyCoolBank/Bank.Domain/bin/Debug/net9.0/Bank.Domain.pdb
+/Users/mcaleg2006/RiderProjects/ConsoleBank/MyCoolBank/Bank.Domain/obj/Debug/net9.0/Bank.Domain.sourcelink.json
+/Users/mcaleg2006/RiderProjects/ConsoleBank/MyCoolBank/Bank.Domain/obj/Debug/net9.0/Bank.Domain.dll
+/Users/mcaleg2006/RiderProjects/ConsoleBank/MyCoolBank/Bank.Domain/obj/Debug/net9.0/refint/Bank.Domain.dll
+/Users/mcaleg2006/RiderProjects/ConsoleBank/MyCoolBank/Bank.Domain/obj/Debug/net9.0/Bank.Domain.pdb
+/Users/mcaleg2006/RiderProjects/ConsoleBank/MyCoolBank/Bank.Domain/obj/Debug/net9.0/ref/Bank.Domain.dll
